@@ -4,3 +4,9 @@
   cols: 11
   description: A pin of the mtcars dataset.
   type: table
+- path: bike_station_info
+  name: bike_station_info
+  rows: 570
+  cols: 4
+  description: List of stations of Capitol Bikeshare
+  type: table
