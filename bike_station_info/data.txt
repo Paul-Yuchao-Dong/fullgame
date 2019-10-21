@@ -1,0 +1,12 @@
+path:
+- data.csv
+- data.rds
+rows: 570
+cols: 4
+columns:
+  station_id: character
+  name: character
+  lat: numeric
+  lon: numeric
+description: List of stations of Capitol Bikeshare
+type: table
